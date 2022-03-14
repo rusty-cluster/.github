@@ -6,4 +6,5 @@
 * Effective usage of memory and cpu cores matter
 * [Agile](https://agilemanifesto.org/principles.html) management matter
 * Developer expirience matter
+* Declarative deps with Nix 
 * Unit tests mandatory for any commercial project
