@@ -4,7 +4,7 @@
 * Code composition important, 200+ lines of logic in one file are smell
 * Functional Programming ≫ OOP
 * Effective usage of memory and cpu cores matter
-* [Agile](https://agilemanifesto.org/principles.html) management matter
+* [Agile](https://agilemanifesto.org/principles.html) is democracy
 * Developer expirience matter
 * Declarative deps with Nix 
 * Unit tests mandatory for any commercial project
