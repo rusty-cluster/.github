@@ -7,5 +7,4 @@
 * Functional Programming ≫ OOP 
 * Effective usage of memory and cpu cores matter
 * [Agile](https://agilemanifesto.org/principles.html) is democracy
-* Declarative deps with Nix 
-  
+* Nix declarative deps provide reproducibility, simplify scaling and sharing the code
